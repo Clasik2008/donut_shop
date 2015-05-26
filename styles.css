@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Fanwood Text', serif;
+    font-size: 16px;
+    color: #0D0D0D;
+    background-color: #BF8A49;}
+
+h1 {
+  font-family: : 'Fanwood Text' serif;
+  font-size: 200%;}
+
+table {
+  font-family: 'Jura', sans-serif;
+  font-size: 16px;}
+
+input, button{
+  padding: 6px 12px 6px 12px;
+  border: 1px solid #0D0D0D;
+}
+
+
+
